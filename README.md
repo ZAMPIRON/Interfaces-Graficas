@@ -15,8 +15,9 @@ Bem-vindo(a) à minha coleção de bibliotecas Python!
 ----------------------------------------------------------
 
 ## CÓDIGOS
+
 [PYQT](codigo_pyqt.py)
 
 [TKINTER](codigo_tkinter.py)
 
-==========================================================
+
