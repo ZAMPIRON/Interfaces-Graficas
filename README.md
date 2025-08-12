@@ -7,8 +7,11 @@ Bem-vindo(a) à minha coleção de bibliotecas Python!
 [OPENCV](relatorios/OPENCV.md)
 [PYGAME](relatorios/PYGAME.md)
 [SELENIUM E PYAUTOGUI](relatorios/SELENIUM_PYAUTOGUI.md)
----------------------------------------------------------
+
+----------------------------------------------------------
+
 ## CÓDIGOS
 [PYQT](codigo_pyqt.py)
 [TKINTER](codigo_tkinter.py)
-========================================================
+
+==========================================================
