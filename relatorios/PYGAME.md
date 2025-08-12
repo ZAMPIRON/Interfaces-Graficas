@@ -32,10 +32,11 @@ O loop principal de um jogo em Pygame são:
 
 - Sintaxe simples e fácil aprendizado
 - Multiplataforma
-- Alta flexibilidade no desenvolvimento
+- Alta flexibilidade
 - Comunidade ativa com ampla documentação
 - Ideal para jogos 2D
-- Licença gratuita e open-source
+- open-source
+- gratuito
 
 ## Limitações
 

@@ -16,15 +16,15 @@
 
 ### **Linguagens e Plataformas**
 
-- Suporte com **C++** e **Python**.
-- Também funciona com **Java** e outras linguagens via bindings.
-- **Multiplataforma**: Windows, Linux, macOS, Android, iOS, Raspberry Pi.
+- Suporte com C++ e Python.
+- Também funciona com Java e outras linguagens via bindings.
+- Multiplataforma
 
 ### **Funcionamento**
 
-1. **Entrada de dados**: imagens, vídeos ou captura em tempo real (ex.: webcam, câmera IP).
-2. **Processamento**: aplicação de operações matemáticas (filtros, transformações, detecção).
-3. **Saída**: imagens/vídeos processados, informações analisadas ou integração com outros sistemas.
+1. **Entrada de dados**
+2. **Processamento**
+3. **Saída**
 
 ### comandos
 
@@ -57,8 +57,8 @@
 - Segurança e vigilância: detecção de intrusos, monitoramento.
 - Realidade aumentada (AR) e realidade virtual (VR)
 - Reconhecimento facial e biometria
-- Reconhecimento de gestos e movimentos.
-- Edição, restauração e aprimoramento de imagens
+- reconhecimento de gestos e movimentos.
+- Edição de imagens
 
 ### **Pontos +**
 
@@ -70,15 +70,15 @@
 
 ### **Concorrentes**
 
-- **Pillow** – simples, ideal para manipulação básica de imagens em Python puro
-- **dlib** – muito bom para detecção e reconhecimento facial
+- **Pillow**
+- **dlib**
 
 ### **OpenCV + Inteligência Artificial**
 
 - Restauração de fotos antigas
-- Detecção e classificação de objetos em tempo real.
-- Segmentação de imagens (separar objetos)
-- extrair texto de imagens.
+- Detecção e classificação de objetos em tempo real
+- Segmentação de imagens
+- extrair texto de imagens
 - Realidade aumentada, sobreposição de objetos virtuais.
-- Reconhecimento facial e de expressões.
-- Detecção de gestos e movimentos corporais.
+- Reconhecimento facial e de expressões
+- Detecção de gestos e movimentos corporais

@@ -91,13 +91,13 @@ pip install pyautogui
 - Preenchimento automático de formulários.
 - Repetição de tarefas rotineiras.
 
-## **Comparação rápida**
+## **COMPARAÇÃO**
 
 | Característica | Selenium | PyAutoGUI |
 | --- | --- | --- |
-| **Área de uso** | Automação de navegadores web | Automação da interface gráfica |
+| **area de uso** | Automação de navegadores web | Automação da interface gráfica |
 | **Linguagens** | Várias | Python |
-| **Complexidade** | Média-alta | Baixa |
-| **Pontos +** | Testes e automação web | Simplicidade |
-| **Pontos -** | Mais difícil de aprender e configurar | Pouco preciso, depende da tela |
-| **Uso real** | Testes automatizados | Rotinas repetitivas |
+| **complexidade** | Média-alta | Baixa |
+| **pontos +** | Testes e automação web | Simplicidade |
+| **pontos -** | Mais difícil de aprender e configurar | Pouco preciso, depende da tela |
+| **Usa** | Testes automatizados | Rotinas repetitivas |

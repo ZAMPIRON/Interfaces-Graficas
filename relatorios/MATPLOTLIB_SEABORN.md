@@ -54,4 +54,4 @@ Alguns gráficos podem ser limitados em opções
 
 ### **Conclusão**
 
-os dois funcionam juntos (Seaborn usa Matplotlib por baixo dos panos).
+os dois funcionam juntos

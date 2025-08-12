@@ -5,20 +5,17 @@
 **Para cálculos com Arrays**
 
 - Arrays multidimensionais (1D, 2D, 3D, 4D)
-- Tipos de dados homogêneos
 
 **Pontos positivos:**
 
 - Muito mais rápido que listas Python
-- Operações vetoriais simples e eficientes
-- Boa compatibilidade com outras bibliotecas científicas
-- Cálculos matemáticos otimizados
+- Operações simples e eficientes
+- compatibilidade com outras bibliotecas
 
 **Pontos negativos:**
 
-- Capacidade limitada para dados não numéricos
-- Curva de aprendizagem mais acentuada
-- Menos intuitivo para manipulação de dados tabulares
+- Capacidade limitada
+- Curva de aprendizagem
 
 ## Pandas
 
@@ -34,12 +31,11 @@
 
 - Alto consumo de memória RAM
 - Não ideal para big data
-- Pode ser mais lento que NumPy para operações numéricas puras
 
 **Estruturas**
 
 - Series: colunas de dados unidimensionais
-- DataFrame: estrutura tabular bidimensional (como uma planilha)
+- DataFrame
 
 ## Conclusão
 
